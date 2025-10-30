@@ -15,3 +15,8 @@ for x,y in courses.items():
 
 expected_growth = {key: value * 2 for key, value in courses.items()}
 print(expected_growth)
+
+
+
+
+print(globals())

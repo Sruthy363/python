@@ -57,3 +57,8 @@ print("\nYoga Instructor Details:")
 yoga_instructor.display()
 print("\nMulti-Trainer Details:")
 multi_trainer.display()
+
+
+
+
+
